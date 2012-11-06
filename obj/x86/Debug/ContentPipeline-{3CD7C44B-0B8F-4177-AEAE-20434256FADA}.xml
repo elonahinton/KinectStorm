@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Untitled.png</Source>
+      <Name>Untitled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Untitled.xnb</Output>
+      <Time>2012-09-28T10:16:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Beam.png</Source>
+      <Name>Beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Beam.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BeamBlurred.png</Source>
+      <Name>BeamBlurred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\BeamBlurred.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud001.png</Source>
+      <Name>Cloud001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Cloud001.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud002.png</Source>
+      <Name>Cloud002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Cloud002.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud003.png</Source>
+      <Name>Cloud003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Cloud003.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud004.png</Source>
+      <Name>Cloud004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Cloud004.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Flame.png</Source>
+      <Name>Flame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Flame.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FlowerBurst.png</Source>
+      <Name>FlowerBurst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\FlowerBurst.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Laser.png</Source>
+      <Name>Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Laser.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LensFlare.png</Source>
+      <Name>LensFlare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\LensFlare.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MultiDot.png</Source>
+      <Name>MultiDot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\MultiDot.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle001.png</Source>
+      <Name>Particle001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Particle001.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle002.png</Source>
+      <Name>Particle002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Particle002.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle003.png</Source>
+      <Name>Particle003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Particle003.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle004.png</Source>
+      <Name>Particle004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Particle004.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle005.png</Source>
+      <Name>Particle005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Particle005.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle006.png</Source>
+      <Name>Particle006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Particle006.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle007.png</Source>
+      <Name>Particle007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Particle007.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Ring001.png</Source>
+      <Name>Ring001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Ring001.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Ring002.png</Source>
+      <Name>Ring002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Ring002.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SoftClumpy.png</Source>
+      <Name>SoftClumpy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\SoftClumpy.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SoftSmokey.png</Source>
+      <Name>SoftSmokey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\SoftSmokey.xnb</Output>
+      <Time>2012-09-29T20:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spikey001.png</Source>
+      <Name>Spikey001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Spikey001.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spikey002.png</Source>
+      <Name>Spikey002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Spikey002.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash.png</Source>
+      <Name>Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Splash.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spray001.png</Source>
+      <Name>Spray001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Spray001.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Star.png</Source>
+      <Name>Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Star.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Water001.png</Source>
+      <Name>Water001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Water001.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Water002.png</Source>
+      <Name>Water002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Water002.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Weeds.png</Source>
+      <Name>Weeds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Weeds.xnb</Output>
+      <Time>2012-09-29T20:35:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lightning.png</Source>
+      <Name>Lightning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\Lightning.xnb</Output>
+      <Time>2012-10-10T21:27:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud.png</Source>
+      <Name>cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\cloud.xnb</Output>
+      <Time>2012-10-19T16:47:31.1465292-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BasicExplosion.xml</Source>
+      <Name>BasicExplosion</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\BasicExplosion.xnb</Output>
+      <Time>2012-10-01T14:42:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>wand.xml</Source>
+      <Name>wand</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\wand.xnb</Output>
+      <Time>2012-10-01T13:34:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lightningX.xml</Source>
+      <Name>lightningX</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\lightningX.xnb</Output>
+      <Time>2012-10-10T21:58:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lightningS.wav</Source>
+      <Name>lightningS</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\lightningS.xnb</Output>
+      <Time>2012-10-12T15:40:10-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3CD7C44B-0B8F-4177-AEAE-20434256FADA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGameContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\ProjectMercury.dll</Key>
+        <Value>2012-09-28T09:27:38-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Game Programming\Alex_+_Geoff_Kinect\Alex_+_Geoff_Kinect\SampleKinectGame\SampleKinectGame\ProjectMercury.ContentPipeline.dll</Key>
+        <Value>2012-09-28T09:27:38-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-18T13:25:40.4892489-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
